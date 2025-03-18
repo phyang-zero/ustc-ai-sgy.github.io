@@ -29,15 +29,19 @@ title: 2025春季人工智能数学原理与算法课程介绍
 
 ## 助教
 
-| 姓名   | 邮箱                           | 擅长领域 |
-| ------ | ------------------------------ | ------ |
-| 章馨月 | xinyuezhang@mail.ustc.edu.cn | 强化学习，图神经网络 |
-| 王悦果 | shiyan688@mail.ustc.edu.cn | 机器学习基础，Transformer |
-| 杨程 | yc648@mail.ustc.edu.cn | 强化学习，图神经网络 |
-| 张易 | zy1230@mail.ustc.edu.cn | 机器学习基础，神经网络基础 |
-| 李钊佚 | lizhaoyi777@mail.ustc.edu.cn | Transformer，自监督学习 |
-| 耿浩涵 | ghh3@mail.ustc.edu.cn | 强化学习，神经网络基础 |
-| 赵泽昆 | zekun@mail.ustc.edu.cn | Python编程 |
+| 姓名   | 邮箱                           | 擅长领域（理论） | 擅长领域（实验） |
+| ------ | ------------------------------ | ------ | ------ |
+| 章馨月 | xinyuezhang@mail.ustc.edu.cn | 强化学习，图神经网络 | 待定 |
+| 王悦果 | shiyan688@mail.ustc.edu.cn | 机器学习基础，Transformer | 数学 |
+| 杨程 | yc648@mail.ustc.edu.cn | 强化学习，图神经网络 | 分子图分类 |
+| 张易 | zy1230@mail.ustc.edu.cn | 机器学习基础，神经网络基础 | 逻辑回归 |
+| 李钊佚 | lizhaoyi777@mail.ustc.edu.cn | Transformer，自监督学习 | 反向传播 |
+| 耿浩涵 | ghh3@mail.ustc.edu.cn | 强化学习，神经网络基础 | 强化学习 |
+| 赵泽昆 | zekun@mail.ustc.edu.cn | 待定 | Python编程 |
+| 耿毅 |  | 待定 | 图像分类 |
+| 杜荟鹏 | redmist@mail.ustc.edu.cn | 待定 | 语音识别 |
+| 李旭 | lixu123@mail.ustc.edu.cn | 待定 | 文本分析 |
+| 陈逸林 | cylyyds@mail.ustc.edu.cn | 待定 | 符号回归 |
 
 ## 课程时间与地点
 
@@ -81,7 +85,7 @@ title: 2025春季人工智能数学原理与算法课程介绍
 
 ## 作业和实验提交
 
-#### 作业提交
+#### 作业和实提交
 
 -   在 [blackboard 系统](https://www.bb.ustc.edu.cn/)上提交
     -   注意：第一次和第二次作业提交到课程邮箱`ustc-ai@outlook.com`
@@ -91,7 +95,7 @@ title: 2025春季人工智能数学原理与算法课程介绍
 
 #### 实验提交
 
--   待定，见QQ群通知
+-  Python编程实验（前四次实验）在[blackboard 系统](https://www.bb.ustc.edu.cn/)上提交
 
 ## 请假规定
 
@@ -102,7 +106,8 @@ title: 2025春季人工智能数学原理与算法课程介绍
 ## 如何参与课程建设/讨论？
 
 -   课程QQ群讨论
--   [Github讨论区](https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/discussions) 在本仓库的讨论区直接发布讨论话题
-    -   助教会定期选取有价值的内容同步到课程主页
--   原则：仅鼓励合理的课程内容讨论，不可以包含作业/实验答案等，否则将被视为作弊。
-    -   注意：与作业/实验相关的内容，请在ddl之后发布
+-   bb系统讨论区（对选课同学开放）
+-   [Github讨论区](https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/discussions) 
+-   原则：仅鼓励合理的课程内容讨论
+    -   不可以包含作业/实验答案等，否则将被视为作弊。
+    -   注意：与作业/实验相关的内容，请在ddl之后发布。
