@@ -38,7 +38,7 @@ title: 2025春季人工智能数学原理与算法课程介绍
 | 李钊佚 | lizhaoyi777@mail.ustc.edu.cn | Transformer，自监督学习 | 反向传播 |
 | 耿浩涵 | ghh3@mail.ustc.edu.cn | 强化学习，神经网络基础 | 强化学习 |
 | 赵泽昆 | zekun@mail.ustc.edu.cn | 待定 | Python编程 |
-| 耿毅 |  | 待定 | 图像分类 |
+| 耿毅 | bxzymy@mail.ustc.edu.cn | 待定 | 图像分类 |
 | 杜荟鹏 | redmist@mail.ustc.edu.cn | 待定 | 语音识别 |
 | 李旭 | lixu123@mail.ustc.edu.cn | 待定 | 文本分析 |
 | 陈逸林 | cylyyds@mail.ustc.edu.cn | 待定 | 符号回归 |
