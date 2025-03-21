@@ -31,6 +31,7 @@ title: 实验时间及讲义
       <td>2025.3.21 周五</td>
       <td rowspan="1">
         <a href="./Python基础实验2.pdf">Python基础实验2.pdf</a><br />
+        <a href="./第二次上机-实验手册.pdf">第二次上机-实验手册.pdf</a><br />
         <a href="./c3_code.txt">c3_code.txt</a>
       </td>
     </tr>
