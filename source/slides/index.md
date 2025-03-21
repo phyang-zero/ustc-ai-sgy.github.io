@@ -54,9 +54,7 @@ title: 课程时间及讲义
       <td rowspan="3" align="center">机器学习基础</td>
       <td rowspan="3">
         <a href="./2.4 线性回归.pdf">2.4 线性回归.pdf</a><br />
-        <a href="./2.5 逻辑回归1.pdf">2.5 逻辑回归1.pdf</a><br />
         <a href="./2.5 逻辑回归_v2.pdf">2.5 逻辑回归_v2.pdf</a><br />
-        <a href="./2.6 逻辑回归2.pdf">2.6 逻辑回归2.pdf</a><br />
         <a href="./2.6 多分类与过拟合.pdf">2.6 多分类与过拟合.pdf</a>
       </td>
     </tr>
