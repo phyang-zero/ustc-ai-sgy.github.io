@@ -66,6 +66,23 @@ title: 课程时间及讲义
       <td align="center">8</td>
       <td>2025.3.20</td>
     </tr>
+    <tr>
+        <td align="center">9</td>
+        <td>2025.3.24</td>
+        <td rowspan="3" align="center">连德富老师</td>
+        <td rowspan="3" align="center">神经网络基础</td>
+        <td rowspan="3">
+            <a href="./3.1 神经网络基础（1）：前馈神经网络.pdf">3.1 神经网络基础（1）：前馈神经网络.pdf</a>
+        </td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td>2025.3.26</td>
+    </tr>
+        <tr>
+      <td align="center">11</td>
+      <td>2025.3.31</td>
+    </tr>
   </tbody>
   <colgroup>
     <col>
