@@ -22,7 +22,7 @@ title: 实验时间及讲义
       <td rowspan="5" align="center">Python系列实验</td>
       <td rowspan="1">
         <a href="./Python基础实验1.pdf">Python基础实验1.pdf</a><br />
-        <a href="./1_1_第一次上机-实验手册（待定）.pdf">1_1_第一次上机-实验手册（待定）.pdf</a><br />
+        <a href="./第一次上机-实验手册.pdf">第一次上机-实验手册.pdf</a><br />
         <a href="./c2_code.txt">c2_code.txt</a>
       </td>
     </tr>
@@ -40,6 +40,7 @@ title: 实验时间及讲义
       <td>2025.3.28 周五</td>
       <td rowspan="1">
         <a href="./Python基础实验3.pdf">Python基础实验3.pdf</a><br />
+        <a href="./第三次上机-实验手册.pdf">第三次上机-实验手册.pdf</a><br />
         <a href="./c4_code.txt">c4_code.txt</a>
       </td>
     </tr>

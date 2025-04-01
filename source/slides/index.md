@@ -69,10 +69,11 @@ title: 课程时间及讲义
     <tr>
         <td align="center">9</td>
         <td>2025.3.24</td>
-        <td rowspan="3" align="center">连德富老师</td>
-        <td rowspan="3" align="center">神经网络基础</td>
-        <td rowspan="3">
-            <a href="./3.1 神经网络基础（1）：前馈神经网络.pdf">3.1 神经网络基础（1）：前馈神经网络.pdf</a>
+        <td rowspan="6" align="center">连德富老师</td>
+        <td rowspan="6" align="center">神经网络基础</td>
+        <td rowspan="6">
+            <a href="./3.1 神经网络基础（1）：前馈神经网络.pdf">3.1 神经网络基础（1）：前馈神经网络.pdf</a><br />
+            <a href="./3.2 神经网络基础（2）：神经网络优化.pdf">3.2 神经网络基础（2）：神经网络优化.pdf</a>
         </td>
     </tr>
     <tr>
@@ -82,6 +83,19 @@ title: 课程时间及讲义
         <tr>
       <td align="center">11</td>
       <td>2025.3.31</td>
+    </tr>
+    <tr>
+      <td align="center">12</td>
+      <td>2025.4.4</td>
+    </tr>
+    <tr>
+      <td align="center">13</td>
+      <td>2025.4.7</td>
+    </tr>
+    </tr>
+    <tr>
+      <td align="center">14</td>
+      <td>2025.4.10</td>
     </tr>
   </tbody>
   <colgroup>
