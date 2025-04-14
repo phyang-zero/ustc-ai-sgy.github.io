@@ -98,6 +98,15 @@ title: 课程时间及讲义
       <td align="center">14</td>
       <td>2025.4.13</td>
     </tr>
+        <tr>
+      <td align="center">15</td>
+      <td>2025.4.14</td>
+      <td rowspan="6" align="center">王翔老师</td>
+      <td rowspan="6" align="center">图神经网络</td>
+      <td rowspan="6">
+            <a href="./4.1 图神经网络（1）：图学习基础.pdf">4.1 图神经网络（1）：图学习基础.pdf</
+        </td>
+    </tr>
   </tbody>
   <colgroup>
     <col>
