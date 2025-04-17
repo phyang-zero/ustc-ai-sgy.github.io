@@ -104,7 +104,8 @@ title: 课程时间及讲义
       <td rowspan="6" align="center">王翔老师</td>
       <td rowspan="6" align="center">图神经网络</td>
       <td rowspan="6">
-            <a href="./4.1 图神经网络（1）：图学习基础.pdf">4.1 图神经网络（1）：图学习基础.pdf</
+            <a href="./4.1 图神经网络（1）：图学习基础.pdf">4.1 图神经网络（1）：图学习基础.pdf</a><br />
+            <a href="./4.2 图神经网络（2）：图表征学习.pdf">4.2 图神经网络（2）：图表征学习.pdf</a><br />
         </td>
     </tr>
     <tr>
