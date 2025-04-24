@@ -74,7 +74,7 @@ title: 课程时间及讲义
         <td rowspan="6">
             <a href="./3.1 神经网络基础（1）：前馈神经网络.pdf">3.1 神经网络基础（1）：前馈神经网络.pdf</a><br />
             <a href="./3.2 神经网络基础（2）：神经网络优化.pdf">3.2 神经网络基础（2）：神经网络优化.pdf</a><br />
-            <a href="./3.3 神经网络基础（3）：深度神经网络.pdf">33.3 神经网络基础（3）：深度神经网络.pdf</a>
+            <a href="./3.3 神经网络基础（3）：深度神经网络.pptx">3.3 神经网络基础（3）：深度神经网络.pptx</a>
         </td>
     </tr>
     <tr>
@@ -96,7 +96,32 @@ title: 课程时间及讲义
     </tr>
     <tr>
       <td align="center">14</td>
-      <td>2025.4.10</td>
+      <td>2025.4.13</td>
+    </tr>
+    <tr>
+      <td align="center">15</td>
+      <td>2025.4.14</td>
+      <td rowspan="6" align="center">王翔老师</td>
+      <td rowspan="6" align="center">图神经网络</td>
+      <td rowspan="6">
+            <a href="./4.1 图神经网络（1）：图学习基础.pdf">4.1 图神经网络（1）：图学习基础.pdf</a><br />
+            <a href="./4.2 图神经网络（2）：图表征学习.pdf">4.2 图神经网络（2）：图表征学习.pdf</a><br />
+            <a href="./4.3 图神经网络（3）：图神经网络.pdf">4.3 图神经网络（3）：图神经网络.pdf</a><br />
+            <a href="./4.4 图神经网络（4）：图神经网络.pdf">4.4 图神经网络（3）：图神经网络.pdf</a><br />
+        </td>
+    </tr>
+    <tr>
+      <td align="center">16</td>
+      <td>2025.4.17</td>
+    </tr>
+    <tr>
+      <td align="center">17</td>
+      <td>2025.4.21</td>
+    </tr>
+    </tr>
+    <tr>
+      <td align="center">18</td>
+      <td>2025.4.24</td>
     </tr>
   </tbody>
   <colgroup>
