@@ -18,8 +18,8 @@ title: 实验时间及讲义
     <tr>
       <td align="center">1</td>
       <td>2025.3.14 周五</td>
-      <td rowspan="5" align="center">孙广中老师</td>
-      <td rowspan="5" align="center">Python系列实验</td>
+      <td rowspan="4" align="center">孙广中老师</td>
+      <td rowspan="4" align="center">Python系列实验</td>
       <td rowspan="1">
         <a href="./Python基础实验1.pdf">Python基础实验1.pdf</a><br />
         <a href="./第一次上机-实验手册.pdf">第一次上机-实验手册.pdf</a><br />
@@ -52,5 +52,47 @@ title: 实验时间及讲义
         <a href="./c5_code.txt">c5_code.txt</a>
       </td>
     </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>2025.4.18 周五</td>
+      <td rowspan="1" align="center">王翔老师</td>
+      <td rowspan="1" align="center">逻辑回归实验</td>
+      <td rowspan="1">
+        <a href="./逻辑回归-实验讲义.pdf">逻辑回归-实验讲义.pdf</a><br />
+        <a href="./逻辑回归-实验手册.pdf">逻辑回归-实验手册.pdf</a><br />
+        <a href="https://rec.ustc.edu.cn/share/8a7422b0-1b55-11f0-bb7e-93be71f85b5a">实验代码(密码: 2025ai)</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>2025.4.25 周五</td>
+      <td rowspan="1" align="center">凌震华老师</td>
+      <td rowspan="1" align="center">反向传播实验</td>
+      <td rowspan="1">
+        <a href="./人工智能反向传播实验_v3.pdf">人工智能反向传播实验_v3.pdf</a><br />
+        <a href="./experiment_bp.py">experiment_bp.py</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7</td>
+      <td>2025.5.9 周五</td>
+      <td rowspan="4" align="center">老师</td>
+      <td rowspan="4" align="center">综合实验</td>
+      <td rowspan="4">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>2025.5.16 周五</td>
+    </tr>
+    <tr>
+      <td align="center">9</td>
+      <td>2025.5.23 周五</td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td>2025.5.30 周五</td>
+    </tr>
+
   </tbody>
 </table>
