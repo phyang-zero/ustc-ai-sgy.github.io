@@ -129,7 +129,8 @@ title: 课程时间及讲义
       <td rowspan="3" align="center">宋彦老师</td>
       <td rowspan="3" align="center">Transformer</td>
       <td rowspan="3">
-            <a href="./5.1 注意力与自注意力机制.pdf">5.1 注意力与自注意力机制.pdf</a>
+            <a href="./5.1 注意力与自注意力机制.pdf">5.1 注意力与自注意力机制.pdf</a><br/>
+            <a href="./5.2 Transformer的编码与解码器.pdf">5.2 Transformer的编码与解码器.pdf</a>
       </td>
     </tr>
     <tr>
