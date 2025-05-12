@@ -79,6 +79,11 @@ title: 实验时间及讲义
       <td rowspan="4" align="center">老师</td>
       <td rowspan="4" align="center">综合实验</td>
       <td rowspan="4">
+        <a href="./综合大实验说明.docx">综合大实验说明.docx</a><br />
+        <a href="./第三章 综合实验: 基于GNN的分子图分类.pptx">第三章 综合实验: 基于GNN的分子图分类.pptx</a><br />
+        <a href="./第四章 综合实验: 基于强化学习的游戏决策实验.pptx">第四章 综合实验: 基于强化学习的游戏决策实验.pptx</a><br />
+        <a href="./第九章 综合实验: 基于循环神经网络的语音识别实验.pdf">第九章 综合实验: 基于循环神经网络的语音识别实验.pdf</a><br />
+        <a href="./ai4science.pdf">ai4science.pdf</a><br />
       </td>
     </tr>
     <tr>
