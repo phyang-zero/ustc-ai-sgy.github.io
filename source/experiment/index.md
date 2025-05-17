@@ -84,6 +84,7 @@ title: 实验时间及讲义
         <a href="./第四章 综合实验: 基于强化学习的游戏决策实验.pptx">第四章 综合实验: 基于强化学习的游戏决策实验.pptx</a><br />
         <a href="./第九章 综合实验: 基于循环神经网络的语音识别实验.pdf">第九章 综合实验: 基于循环神经网络的语音识别实验.pdf</a><br />
         <a href="./ai4science.pdf">ai4science.pdf</a><br />
+        <a href="./AI for math.pptx">AI for math.pptx</a>
       </td>
     </tr>
     <tr>
