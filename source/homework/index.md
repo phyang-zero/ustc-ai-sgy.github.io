@@ -70,13 +70,21 @@ title: 课程作业
             </td>
             <td>2025年4月13日 18:00</td>
         </tr>
-                <tr>
+        <tr>
             <td align="center">6</td>
             <td align="center">神经网络基础</td>
             <td>
             《3.3 神经网络基础(3): 深度神经网络》讲义课后作业
             </td>
             <td>2025年4月21日 18:00</td>
+        </tr>
+        <tr>
+            <td align="center">6</td>
+            <td align="center">强化学习</td>
+            <td>
+            强化学习7.1,7.2,7.3讲义课后作业
+            </td>
+            <td>2025年6月24日 23:59</td>
         </tr>
     </tbody>
 </table>

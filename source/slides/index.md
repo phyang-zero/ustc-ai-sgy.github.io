@@ -174,7 +174,9 @@ title: 课程时间及讲义
       <td rowspan="5">
         <a href="./7.1 强化学习介绍(1).pdf">7.1 强化学习介绍(1).pdf</a><br />
         <a href="./7.2 马尔可夫决策过程.pdf">7.2 马尔可夫决策过程.pdf</a><br />
-        <a href="./7.3 动态规划算法.pdf">7.3 动态规划算法.pdf</a>
+        <a href="./7.3 动态规划算法.pdf">7.3 动态规划算法.pdf</a><br />
+        <a href="./7.4 Q学习算法(1).pdf">7.4 Q学习算法(1).pdf</a><br />
+        <a href="./7.5 深度Q学习.pdf">7.5 深度Q学习.pdf</a>
       </td>
     </tr>
     <tr>
@@ -192,6 +194,10 @@ title: 课程时间及讲义
     <tr>
       <td align="center">30</td>
       <td>2025.6.16 周一</td>
+    </tr>
+    <tr>
+      <td align="center">31</td>
+      <td>2025.6.19 周四</td>
     </tr>
   </tbody>
   <colgroup>
